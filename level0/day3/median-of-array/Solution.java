@@ -1,4 +1,4 @@
-//프로그래머스 < 코딩 테스트 입문 - day3 < 중앙값 구하기(배열)
+//프로그래머스 < 코딩 테스트 입문 - Day3 < 중앙값 구하기(배열)
 
 class Solution {
     public int solution(int[] array) {
